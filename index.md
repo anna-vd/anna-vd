@@ -23,7 +23,7 @@ I am a 3rd-year PhD student in Economics at Stanford…
 
 ## <a id="wip"></a>Work in Progress
 - Title 1 (data collection)
-- Title 2 (analysis stage)
+- 
 
 ---
 
