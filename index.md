@@ -9,7 +9,6 @@ layout: default
   <a href="#personal">Personal</a>
 </nav>
 
-# Anna Vdovina
 Stanford University · vdovina@stanford.edu · CV ([pdf](/assets/cv.pdf))
 
 ## <a id="about"></a>About
